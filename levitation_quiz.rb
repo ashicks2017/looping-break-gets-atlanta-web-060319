@@ -1,7 +1,7 @@
 
-def levitation_quiz
+#def levitation_quiz
 	#your code here
-end
+#end
 
 def annoying 
   loop do
